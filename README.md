@@ -1,5 +1,7 @@
 # [jjdxm_ijkplayer][project] #
 
+[![](https://jitpack.io/v/AoEiuV020/jjdxm_ijkplayer.svg)](https://jitpack.io/#AoEiuV020/jjdxm_ijkplayer)
+
 ### Copyright notice ###
 
 我在网上写的文章、项目都可以转载，但请注明出处，这是我唯一的要求。当然纯我个人原创的成果被转载了，不注明出处也是没有关系的，但是由我转载或者借鉴了别人的成果的请注明他人的出处，算是对前辈们的一种尊重吧！
